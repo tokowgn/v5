@@ -11,18 +11,18 @@
 ```
 ### PORT INFO
 ```
-- ⚠️TROJAN WSS       = 443
+- ⚠️TROJAN TLS       = 443
 - ⚠️TROJAN GRPC      = 443
-- ⚠️SHADOWSOCKS WS   = 443
+- ⚠️SHADOWSOCKS TLS  = 443
 - ⚠️SHADOWSOCKS GRPC = 443
-- ⚠️VLESS WS         = 443
+- ⚠️VLESS TLS        = 443
 - ⚠️VLESS GRPC       = 443
 - ⚠️VMESS TLS        = 443
 - ⚠️VMESS GRPC       = 443
 - ⚠️VLESS NONTLS     = 80 , 8080
 - ⚠️VMESS NONTLS     = 80 , 8080
-- ⚠️SSH WS / TLS     = 443
-- ⚠️SSH NON TLS      = 8880 , 80 , 2086 , 8080
+- ⚠️SSH WSS / TLS    = 443
+- ⚠️SSH WEBSOCKET    = 8880 , 80 , 2086 , 8080
 - ⚠️OVPN SSL/TCP     = 1194
 - ⚠️SLOWDNS          = 5300 , 53 , 22 , 144
 ```
