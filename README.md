@@ -1,25 +1,13 @@
 
-### PERHATIAN
-- Terima kasih untuk tidak menjual maupun mengenkripsi skrip ini. Saya mendapatkan secara gratis, jadi saya ataupun kalian harus berbagi secara gratis.
-- Script ini **tidak direkomendasikan untuk bermain game**.
-- Status servis terkadang miss informasi. Dimana pada status dead tetapi jika dilihat by servis statusnya sudah aktif. Jadi bisa diabaikan
-- Jika mendapatkan error pada status servis dalam jangka panjang, bisa restart servis yang dead.
-
 ### INSTALL SCRIPT
-<pre><code>apt install -y wget screen && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/myvpn1/abc/main/main.sh && chmod +x main.sh && screen -S install ./main.sh</code></pre>
+<pre><code>apt install -y wget screen && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/tokowgn/v5/main/main.sh && chmod +x main.sh && screen -S install ./main.sh</code></pre>
 
 
-### TESTED ON OS 
+### OSS SUPPORT
 - UBUNTU 20.04.05
-
-### FITUR TAMBAHAN
-- Tambah Swap 1GiB
-- Pemasangan yang dinamis
-- Tuning profile pada server
-- Xray Core by [@dharak36](https://github.com/dharak36/Xray-core)
-- Penambahan fail2ban
-- Auto block sebagian ads indo by default
-
+- UBUNTU 18
+- DEBIAN 10
+- DEBIAN 11
 ### PORT INFO
 ```
 - TROJAN WS 443
@@ -47,12 +35,3 @@
 - Always Use HTTPS : OFF
 - UNDER ATTACK MODE : OFF
 ```
-### STATUS
-`Beta Testing`
-
-### Lisensi
-Repository ini dilindungi oleh lisensi [PAK POLISI](https://mit-license.org/)
-
-### Credits
-- [Dharak36](https://github.com/dharak36/Xray-core)
-- [Tiarap](https://github.com/pengelana/blocklist)
