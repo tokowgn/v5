@@ -3,10 +3,12 @@
 <pre><code>apt install -y wget screen && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/tokowgn/v5/main/main.sh && chmod +x main.sh && screen -S install ./main.sh</code></pre>
 
 ### OSS SUPPORT
-- UBUNTU 20.04.05
-- UBUNTU 18
-- DEBIAN 10
-- DEBIAN 11
+```
+- UBUNTU 20♦️
+- UBUNTU 18♦️
+- DEBIAN 10♦️
+- DEBIAN 11♦️
+```
 ### PORT INFO
 ```
 - ⚠️TROJAN WS 443
@@ -27,10 +29,17 @@
 
 ### SETTING CLOUDFLARE
 ```
-- SSL/TLS : FULL
-- SSL/TLS Recommender : OFF✅
+- SSL/TLS : FULL ONLINE
+- SSL/TLS Recommender : ON✅
 - GRPC : ON✅
 - WEBSOCKET : ON✅
 - Always Use HTTPS : ON✅
 - UNDER ATTACK MODE : ON✅
+```
+### STUN 
+```
+- DDOS ATTACK💀
+- FLAG ATTACK💀
+- CARDING ATTACK💀
+- MINING ATTACK💀
 ```
