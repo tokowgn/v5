@@ -495,7 +495,7 @@ function finish(){
 <code>────────────────────</code>
 <i>Automatic Notification from</i>
 <i>Github tokowgn</i> 
-"'&reply_markup={"inline_keyboard":[[{"text":"ᴏʀᴅᴇʀ🐳","url":"https://t.me/kytxz"},{"text":"ɪɴꜱᴛᴀʟʟ🐬","url":"https://t.me/rstorx/1"}]]}'
+"'&reply_markup={"inline_keyboard":[[{"text":"TELE🐳","url":"https://t.me/tokoWgn"},{"text":"ORDER🐬","url":"https://wa.me/+6283117580148"}]]}'
     curl -s --max-time $TIMES -d "chat_id=$CHATID&disable_web_page_preview=1&text=$TEXT&parse_mode=html" $URL >/dev/null
     cp /etc/openvpn/*.ovpn /var/www/html/
     # sed -i "s/xxx/${domain}/g" /var/www/html/index.html
